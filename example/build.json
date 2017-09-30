@@ -1,5 +1,5 @@
 {
-    "image": "hassioaddons/example-{arch}",
+    "image": "wroadd/{arch}-hassdash",
     "squash": false,
     "build_from": {
         "aarch64": "hassioaddons/base-aarch64:latest",
