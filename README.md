@@ -51,7 +51,7 @@ The original setup of this repository is by [Peter Zsak][wroadd].
 
 MIT License
 
-Copyright (c) 2017 Franck Nijhof
+Copyright (c) 2017 Peter Zsak
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -72,19 +72,19 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 [aarch64-arch-shield]: https://img.shields.io/badge/architecture-aarch64-blue.svg
-[aarch64-dockerhub]: https://hub.docker.com/r/hassioaddons/example-aarch64
+[aarch64-dockerhub]: https://hub.docker.com/r/wroadd/aarch64-hassdash
 [aarch64-layers-shield]: https://images.microbadger.com/badges/image/hassioaddons/example-aarch64.svg
 [aarch64-microbadger]: https://microbadger.com/images/hassioaddons/example-aarch64
 [aarch64-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/example-aarch64.svg
 [aarch64-version-shield]: https://images.microbadger.com/badges/version/hassioaddons/example-aarch64.svg
 [amd64-arch-shield]: https://img.shields.io/badge/architecture-amd64-blue.svg
-[amd64-dockerhub]: https://hub.docker.com/r/hassioaddons/example-amd64
+[amd64-dockerhub]: https://hub.docker.com/r/wroadd/amd64-hassdash
 [amd64-layers-shield]: https://images.microbadger.com/badges/image/hassioaddons/example-amd64.svg
 [amd64-microbadger]: https://microbadger.com/images/hassioaddons/example-amd64
 [amd64-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/example-amd64.svg
 [amd64-version-shield]: https://images.microbadger.com/badges/version/hassioaddons/example-amd64.svg
 [armhf-arch-shield]: https://img.shields.io/badge/architecture-armhf-blue.svg
-[armhf-dockerhub]: https://hub.docker.com/r/hassioaddons/example-armhf
+[armhf-dockerhub]: https://hub.docker.com/r/wroadd/armhf-hassdash
 [armhf-layers-shield]: https://images.microbadger.com/badges/image/hassioaddons/example-armhf.svg
 [armhf-microbadger]: https://microbadger.com/images/hassioaddons/example-armhf
 [armhf-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/example-armhf.svg
@@ -99,16 +99,15 @@ SOFTWARE.
 [forums]: https://community.home-assistant.io/t/repository-community-hass-io-add-ons/24705?u=frenck
 [frenck]: https://github.com/frenck
 [i386-arch-shield]: https://img.shields.io/badge/architecture-i386-blue.svg
-[i386-dockerhub]: https://hub.docker.com/r/hassioaddons/example-i386
+[i386-dockerhub]: https://hub.docker.com/r/wroadd/i386-hassdash
 [i386-layers-shield]: https://images.microbadger.com/badges/image/hassioaddons/example-i386.svg
 [i386-microbadger]: https://microbadger.com/images/hassioaddons/example-i386
 [i386-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/example-i386.svg
 [i386-version-shield]: https://images.microbadger.com/badges/version/hassioaddons/example-i386.svg
-[issue]: https://github.com/hassio-addons/addon-example/issues
+[issue]: https://github.com/wroadd/hassio-addons/issues
 [keepchangelog]: http://keepachangelog.com/en/1.0.0/
 [license-shield]: https://img.shields.io/github/license/hassio-addons/addon-example.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2017.svg
 [project-stage-shield]: https://img.shields.io/badge/Project%20Stage-Experimental-yellow.svg
-[reddit]: https://reddit.com/r/homeassistant
-[repository]: https://github.com/hassio-addons/repository
+[repository]: https://github.com/wroadd/hassio-addons/repository
 [semver]: http://semver.org/spec/v2.0.0.html
