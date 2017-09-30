@@ -8,7 +8,7 @@
 [![Code Climate][codeclimate-shield]][codeclimate]
 [![CircleCI][circleci-shield]][circleci]
 
-Example add-on by Community Hass.io add-ons.
+Wroadd's Hass.io repository
 
 ## Docker status
 
@@ -34,19 +34,8 @@ Example add-on by Community Hass.io add-ons.
 
 ## About
 
-This is an example add-on for Hass.io. When started, it will display a
-random quote every 5 seconds.
+Reworked repopsitory created from addon example.
 
-It shows off several features and structures like:
-
-- Full blown GitHub repository.
-- General Dockerfile structure and setup.
-- The use of the `config.json` and `build.sh` file.
-- General shell scripting structure (`run.sh`).
-- Quality assurance using CodeClimate.
-- Continuous integration and deployment using CircleCI.
-- Usage of the Community Hass.io Add-ons build environment.
-- The use of Docker label schema
 
 ## Changelog
 
@@ -60,36 +49,13 @@ Got questions?
 
 You have several options to get them answered:
 
-- The Home Assistant [Community Forums][forums], we have a
-  [dedicated topic][forums] on that forum regarding this repository.
-- The Home Assistant [Discord Chat Server][discord] for general Home Assistant
-  discussions and questions.
-- Join the [Reddit subreddit][reddit] in [/r/homeassistant][reddit]
+You could [open an issue here][issue] GitHub.
 
-You could also [open an issue here][issue] GitHub.
 
-## Contributing
-
-This is an active open-source project. We are always open to people who want to
-use the code or contribute to it.
-
-We've set up a separate document for our [contribution guidelines](CONTRIBUTING.md).
-
-Thank you for being involved! :heart_eyes:
 
 ## Authors & contributors
 
-The original setup of this repository is by [Franck Nijhof][frenck].
-
-For a full list of all authors and contributors,
-check [the contributor's page][contributors].
-
-## We've got some Hass.io add-ons for you
-
-Want some more functionality to your Hass.io Home Assistant instance?
-
-We have created multiple add-ons for Hass.io. For a full list, check out
-our [GitHub Repository][repository].
+The original setup of this repository is by [Peter Zsak][wroadd].
 
 ## License
 
