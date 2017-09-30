@@ -91,7 +91,7 @@ SOFTWARE.
 [armhf-version-shield]: https://images.microbadger.com/badges/version/hassioaddons/example-armhf.svg
 [awesome-shield]: https://img.shields.io/badge/awesome%3F-yes-brightgreen.svg
 [circleci-shield]: https://img.shields.io/circleci/project/github/hassio-addons/addon-example.svg
-[circleci]: https://circleci.com/gh/hassio-addons/addon-example
+[circleci]: https://circleci.com/gh/wroadd/hassdash
 [codeclimate-shield]: https://img.shields.io/codeclimate/github/hassio-addons/addon-example.svg
 [codeclimate]: https://codeclimate.com/github/hassio-addons/addon-example
 [contributors]: https://github.com/hassio-addons/addon-example/graphs/contributors
