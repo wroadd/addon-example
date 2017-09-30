@@ -1,4 +1,4 @@
-# Community Hass.io Add-ons: Example
+# Wroadd's Hass.io Add-ons
 
 ![Project Stage][project-stage-shield]
 ![Maintenance][maintenance-shield]
