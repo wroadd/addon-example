@@ -4,7 +4,7 @@
 ![Maintenance][maintenance-shield]
 
 [![Code Climate][codeclimate-shield]][codeclimate]
-[![CircleCI][circleci-shield]][circleci]
+[![CircleCI](https://circleci.com/gh/wroadd/hassio-addons/tree/master.svg?style=svg)](https://circleci.com/gh/wroadd/hassio-addons/tree/master)
 
 Wroadd's Hass.io repository
 
