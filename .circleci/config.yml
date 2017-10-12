@@ -28,7 +28,7 @@ defaults: &defaults
                   -v "$PWD":/docker \
                   hassioaddons/build-env:latest \
                   --git \
-                  --target example \
+                  --target hassdash \
                   --${ARCH} \
                   --push
               else
@@ -37,7 +37,7 @@ defaults: &defaults
                   -v "$PWD":/docker \
                   hassioaddons/build-env:latest \
                   --git \
-                  --target example \
+                  --target hassdash \
                   --${ARCH}
               fi
       - deploy:
